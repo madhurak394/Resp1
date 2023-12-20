@@ -1,0 +1,7 @@
+To run jenkins war file 
+
+1. java -jar jenkins.war
+
+To run jenkins.war file from specific port 
+
+  java -jar jenkins.war --httpport=9090
